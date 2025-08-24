@@ -56,8 +56,8 @@ This project demonstrates the use of **web sockets**, **server-client communicat
 1. Clone the repository:  
 
 ```bash
-git clone https://github.com/yourusername/realtime-chat-app.git
-cd realtime-chat-app
+git clone https://github.com/PadagaAkshay/Real-Time-Chat-app
+cd Real-Time-Chat-app
 ```
 
 2. Install dependencies:  
